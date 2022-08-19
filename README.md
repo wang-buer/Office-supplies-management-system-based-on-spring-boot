@@ -1,40 +1,85 @@
 # 基于springboot的办公用品管理系统
 
-#### 介绍
+## 获取方式
+
+项目关键词  ：**办公**
+
+[点击这里文字，关注后，回复项目关键词](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+
+## 1、项目介绍
+
 基于springboot的办公用品管理系统拥有三种角色，分别为管理员、员工和财务人员
+
 - 管理员：物品管理、物品类型管理、物品申请管理、用户管理、审核申请、借还登记管理、申请管理、数据统计等
 - 员工：物品申请、查看申请状态、查看借还登记
 - 财务人员：物品管理、类型管理、申请审核、申请状态管理、借还登记
 
-#### 软件架构
-软件架构说明
+
+## 2、项目技术
+
+后端框架：springboot
+
+前端框架：thymeleaf、html、css、JavaScript、JQuery
+
+## 3、开发环境
+
+- JAVA版本：JDK1.8，其它版本理论上可以
+- IDE类型：IDEA、Eclipse、Myeclipse都可以。推荐IDEA与Eclipse
+- tomcat版本：Tomcat 7.x、8.x、9.x、10.x版本均可
+- 数据库版本：MySql 5.x
+- maven版本：无限制
+- 硬件环境：Windows 或者 Mac OS
 
 
-#### 安装教程
+## 4、功能介绍
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+### 4.1 登录
 
-#### 使用说明
+![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206162337817.jpg)
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+### 4.2 普通员工模块
 
-#### 参与贡献
+![普通员工-功能截图](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206162337379.jpg)
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+![普通员工-申请物品1](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206162337592.jpg)
+
+![普通员工-申请物品2](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206162337912.jpg)
+
+### 4.3 财务人员模块
+
+![财务人员-功能截图](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206162337118.jpg)
+
+### 4.4 管理员模块
+
+![管理员-物品管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206162337766.jpg)
+
+![管理员-物品类型管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206162337898.jpg)
+
+![管理员-用户管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206162337744.jpg)
+
+![管理员-借还登记管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206162337665.jpg)
+
+![管理员-申请审核管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206162337965.jpg)
+
+![管理员-数据统计](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206162337111.jpg)
 
 
-#### 特技
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+![管理员-申请状态管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206162338879.jpeg)
+
+![管理员-审核操作1](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206162338516.jpg)
+
+![管理员-审核操作2](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206162337726.jpg)
+
+## 5、视频演示
+
+[点击播放视频，视频位于文章最后](输入链接)
+
+## 6、获取方式
+
+关注公众号： **程序员王不二**，回复关键词 ：**办公**
+
+
+
+![公众号](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+
