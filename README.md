@@ -1,6 +1,6 @@
 # 基于springboot的办公用品管理系统
 
-点击下方链接，回复项目关键词：**办公**
+点击下方文字，回复项目关键词：**办公**
 
 [点击这里文字，关注后，回复项目关键词，获取源码](https://picture-sharing-link-1256969109.cos.ap-nanjing.myqcloud.com/attentionMode/officialAccount.png)
 
