@@ -1,8 +1,10 @@
 # 基于springboot的办公用品管理系统
 
-点击下方文字，回复项目关键词：**办公**
+## 获取方式
 
-[点击这里文字，关注后，回复项目关键词，获取源码](https://picture-sharing-link-1256969109.cos.ap-nanjing.myqcloud.com/attentionMode/officialAccount.png)
+扫描下方，回复关键词  ：**办公**
+
+![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -23,7 +25,7 @@
 
 - JAVA版本：JDK1.8，其它版本理论上可以
 - IDE类型：IDEA、Eclipse、Myeclipse都可以。推荐IDEA与Eclipse
-- tomcat版本：Tomcat 7.x、8.x、9.x、10.x版本均可
+- tomcat版本：不需要
 - 数据库版本：MySql 5.x
 - maven版本：无限制
 - 硬件环境：Windows 或者 Mac OS
@@ -75,9 +77,9 @@
 
 ## 6、获取方式
 
-关注公众号： **程序员王不二**，回复关键词 ：**办公**
+扫描下方，回复关键词 ：**办公**
 
 
 
-[点击这里文字，关注后，回复项目关键词](https://picture-sharing-link-1256969109.cos.ap-nanjing.myqcloud.com/attentionMode/officialAccount.png)
+![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
