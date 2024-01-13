@@ -1,10 +1,10 @@
-# 基于springboot的办公用品管理系统
+# 基于springboot的办公用品管理系统1
 
 ## 获取方式
 
-扫描下方，回复关键词  ：**办公**
+下方扫一扫关注后，后台回复关键词：**办公**，查看导入教程视频、sql脚本和源码等
 
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -35,47 +35,39 @@
 
 ### 4.1 登录
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206162337817.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202206162337817.jpg)
 
 ### 4.2 普通员工模块
 
-![普通员工-功能截图](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206162337379.jpg)
+![普通员工-功能截图](https://www.codeshop.fun/Typora-Images/202206162337379.jpg)
 
-![普通员工-申请物品1](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206162337592.jpg)
+![普通员工-申请物品1](https://www.codeshop.fun/Typora-Images/202206162337592.jpg)
 
-![普通员工-申请物品2](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206162337912.jpg)
+![普通员工-申请物品2](https://www.codeshop.fun/Typora-Images/202206162337912.jpg)
 
 ### 4.3 财务人员模块
 
-![财务人员-功能截图](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206162337118.jpg)
+![财务人员-功能截图](https://www.codeshop.fun/Typora-Images/202206162337118.jpg)
 
 ### 4.4 管理员模块
 
-![管理员-物品管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206162337766.jpg)
+![管理员-物品管理](https://www.codeshop.fun/Typora-Images/202206162337766.jpg)
 
-![管理员-物品类型管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206162337898.jpg)
+![管理员-物品类型管理](https://www.codeshop.fun/Typora-Images/202206162337898.jpg)
 
-![管理员-用户管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206162337744.jpg)
+![管理员-用户管理](https://www.codeshop.fun/Typora-Images/202206162337744.jpg)
 
-![管理员-借还登记管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206162337665.jpg)
+![管理员-借还登记管理](https://www.codeshop.fun/Typora-Images/202206162337665.jpg)
 
-![管理员-申请审核管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206162337965.jpg)
+![管理员-申请审核管理](https://www.codeshop.fun/Typora-Images/202206162337965.jpg)
 
-![管理员-数据统计](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206162337111.jpg)
-
-
-
-![管理员-申请状态管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206162338879.jpeg)
-
-![管理员-审核操作1](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206162338516.jpg)
-
-![管理员-审核操作2](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206162337726.jpg)
-
-## 5、获取方式
-
-扫描下方，回复关键词 ：**办公**
+![管理员-数据统计](https://www.codeshop.fun/Typora-Images/202206162337111.jpg)
 
 
 
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+![管理员-申请状态管理](https://www.codeshop.fun/Typora-Images/202206162338879.jpeg)
+
+![管理员-审核操作1](https://www.codeshop.fun/Typora-Images/202206162338516.jpg)
+
+![管理员-审核操作2](https://www.codeshop.fun/Typora-Images/202206162337726.jpg)
 
